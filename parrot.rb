@@ -1,3 +1,3 @@
-def method_name
+def parrot
 
 end
